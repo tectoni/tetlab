@@ -470,7 +470,9 @@ return self;
 	// hier muss ein Fehler sein. symbol wird nicht mit neuen Werten gezeichnet. graphicDrawingBounds sind aber aktualisiert 
 	{
 		NSBezierPath *path = [NSBezierPath bezierPath];
-		unsigned int index = [currentSelectionIndexes firstIndex];
+//		unsigned int index = [currentSelectionIndexes firstIndex];
+        NSUInteger index = [currentSelectionIndexes firstIndex];
+
 		while (index != NSNotFound)
 		{
 		
