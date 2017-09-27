@@ -1,0 +1,1930 @@
+TTetLab
+v7
+r0
+t328229638.248078
+cCheck dependencies
+cProcessInfoPlistFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Info.plist Info.plist
+cCpResource build/Release/TetLab.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cStripNIB /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib
+cStripNIB /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib
+cCopyStringsFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Release/TetLab.app/Contents/Resources/Views_3.xcclassmodel Views_3.xcclassmodel
+cCopyStringsFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCpResource build/Release/TetLab.app/Contents/Resources/tetra.icns "Icon Templates/tetra.icns"
+cCpResource build/Release/TetLab.app/Contents/Resources/dsa_pub.pem dsa_pub.pem
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/TetLab1.8/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/TetLab1.8/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/TetLab1.8/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/TetLab1.8/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab normal ppc
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/TetLab1.8/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/TetLab1.8/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/TetLab1.8/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/TetLab1.8/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab normal i386
+cCreateUniversalBinary /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/MacOS/TetLab normal "ppc i386"
+cPBXCp build/Release/TetLab.app/Contents/Frameworks/Sparkle.framework Sparkle.framework
+cTouch /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app
+
+N/Developer-3/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer-3/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004B8E883600000000000000EE
+t1267632182
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B8E884900000000000000EE
+t1267632201
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B8E886700000000000000EE
+t1267632231
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.h
+c000000004CBC520900000000000008FC
+t1287410185
+s2300
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m
+c000000004CBC52090000000000006555
+t1287410185
+s25941
+i"DiagramView.h"
+i"Graphic.h"
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/Credits.rtf
+c000000004CC17C120000000000001B67
+t1287748626
+s7015
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/InfoPlist.strings
+c000000004B8FB9AA00000000000000C4
+t1267710378
+s196
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/Localizable.strings
+c00000000479B646400000000000000E2
+t1201366116
+s226
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib
+c000000004CBC4A840000000000000088
+t1287408260
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib
+c000000004DE01CEF0000000000000088
+t1306533103
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Graphic.h
+c0000000047D6E7EA0000000000000420
+t1205266410
+s1056
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Graphic.m
+c0000000047D6E7080000000000000110
+t1205266184
+s272
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.h
+c00000000484FC57600000000000002EF
+t1213187446
+s751
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.m
+c00000000488704220000000000001809
+t1216807970
+s6153
+i"GraphicsArrayController.h"
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Headers.h
+c000000004880C9440000000000000223
+t1216399684
+s547
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Headers.m
+c000000004880C9440000000000000620
+t1216399684
+s1568
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Icon Templates/tetra.icns
+c00000000480F05D80000000000007835
+t1208944088
+s30773
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.h
+c000000004CBC520900000000000007D7
+t1287410185
+s2007
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m
+c000000004CC035410000000000003C55
+t1287664961
+s15445
+i"MyDocument.h"
+i"DiagramView.h"
+i"Headers.h"
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.h
+c00000000485181B4000000000000022B
+t1213301172
+s555
+i"MyDocument.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m
+c0000000048519F90000000000000085B
+t1213308816
+s2139
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/SelData.h
+c000000004B682CAB0000000000000210
+t1265118379
+s528
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/SelData.m
+c000000004B68A4F900000000000006D3
+t1265149177
+s1747
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Sparkle.framework
+c000000004CAA312A00000000000000CC
+t1286222122
+s204
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Sparkle.framework/Sparkle
+c0000000048CC84C200000000000712B4
+t1221362882
+s463540
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Symbol+Archiving.m
+c0000000047B492FA000000000000077E
+t1203016442
+s1918
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Symbol.h
+c0000000047B491720000000000000284
+t1203016050
+s644
+i<Cocoa/Cocoa.h>
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Symbol.m
+c0000000048BFA5190000000000001481
+t1220519193
+s5249
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/Views_3.xcclassmodel
+c0000000048BF81140000000000000088
+t1220509972
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.h
+c00000000479B61D400000000000000BE
+t1201365460
+s190
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.m
+c00000000479B61D400000000000006A7
+t1201365460
+s1703
+i"ZoomScrollView.h"
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app
+t1306536838
+s102
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Frameworks/Sparkle.framework
+t1306536838
+s204
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Info.plist
+t1306536835
+s1857
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/MacOS/TetLab
+t1306536838
+s138276
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/PkgInfo
+t1306536835
+s8
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/Credits.rtf
+t1306536835
+s7015
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306536835
+s196
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings
+t1306536835
+s454
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306536835
+s16938
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/MyDocument.nib
+t1306536835
+s41011
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/Views_3.xcclassmodel
+t1306536835
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/dsa_pub.pem
+t1306536835
+s1178
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/tetra.icns
+t1306536835
+s30773
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o
+t1306536838
+s32320
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o
+t1267708912
+s2044
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o
+t1267708911
+s10884
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o
+t1267708913
+s5780
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o
+t1306536837
+s23680
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o
+t1306536837
+s5528
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o
+t1267708914
+s5176
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o
+t1267708912
+s5312
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o
+t1267708910
+s7844
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab
+t1306536838
+s68644
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab.LinkFileList
+c000000004DE02B83000000000000050C
+t1306536835
+s1292
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o
+t1267708913
+s5812
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o
+t1267708910
+s1912
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o
+t1306536836
+s38720
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o
+t1267708906
+s2112
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o
+t1267708906
+s13520
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o
+t1267708908
+s6576
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o
+t1306536836
+s26244
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+t1306536837
+s6512
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o
+t1267708909
+s5948
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o
+t1267708907
+s6116
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o
+t1267708905
+s9172
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab
+t1306536837
+s65088
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab.LinkFileList
+c000000004DE02B830000000000000501
+t1306536835
+s1281
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o
+t1267708907
+s6860
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o
+t1267708904
+s2076
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/dsa_pub.pem
+c000000004CC154DB000000000000049A
+t1287738587
+s1178
+
+N/Users/pappel/coding/Objective-C/TetLab1.8/main.m
+c0000000046E7B54C00000000000000FE
+t1189590348
+s254
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.h
+c000000004B8990DB0000000000000976
+t1267306715
+s2422
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m
+c000000004B8990DB0000000000006889
+t1267306715
+s26761
+i"DiagramView.h"
+i"Graphic.h"
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/Credits.rtf
+c000000004B682C5300000000000019F6
+t1265118291
+s6646
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/InfoPlist.strings
+c00000000478DF6C800000000000000C4
+t1200486088
+s196
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/Localizable.strings
+c00000000479B646400000000000000E2
+t1201366116
+s226
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MainMenu.nib
+c0000000048BF80E800000000000000AA
+t1220509928
+s170
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MyDocument.nib
+c0000000048BF80EC00000000000000AA
+t1220509932
+s170
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.h
+c0000000047D6E7EA0000000000000420
+t1205266410
+s1056
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m
+c0000000047D6E7080000000000000110
+t1205266184
+s272
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.h
+c00000000484FC57600000000000002EF
+t1213187446
+s751
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m
+c00000000488704220000000000001809
+t1216807970
+s6153
+i"GraphicsArrayController.h"
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Headers.h
+c000000004880C9440000000000000223
+t1216399684
+s547
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m
+c000000004880C9440000000000000620
+t1216399684
+s1568
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Icon Templates/tetra.icns
+c00000000480F05D80000000000007835
+t1208944088
+s30773
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.h
+c000000004B68ACF3000000000000075C
+t1265151219
+s1884
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m
+c000000004B8990D80000000000003908
+t1267306712
+s14600
+i"MyDocument.h"
+i"DiagramView.h"
+i"Headers.h"
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.h
+c00000000485181B4000000000000022B
+t1213301172
+s555
+i"MyDocument.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m
+c0000000048519F90000000000000085B
+t1213308816
+s2139
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/SelData.h
+c000000004B682CAB0000000000000210
+t1265118379
+s528
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m
+c000000004B68A4F900000000000006D3
+t1265149177
+s1747
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m
+c0000000047B492FA000000000000077E
+t1203016442
+s1918
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.h
+c0000000047B491720000000000000284
+t1203016050
+s644
+i<Cocoa/Cocoa.h>
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m
+c0000000048BFA5190000000000001481
+t1220519193
+s5249
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/Views_3.xcclassmodel
+c0000000048BF81140000000000000088
+t1220509972
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.h
+c00000000479B61D400000000000000BE
+t1201365460
+s190
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m
+c00000000479B61D400000000000006A7
+t1201365460
+s1703
+i"ZoomScrollView.h"
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/MacOS/TetLab
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/Credits.rtf
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/MyDocument.nib
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/Views_3.xcclassmodel
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/tetra.icns
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app
+t1267708914
+s102
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Info.plist
+t1267708903
+s1311
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/MacOS/Trinity
+t1267708914
+s138324
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/PkgInfo
+t1267708903
+s8
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+t1267708903
+s6646
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1267708903
+s196
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+t1267708903
+s454
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib
+t1267708903
+s14240
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib
+t1267708903
+s33524
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+t1267708903
+s136
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/tetra.icns
+t1267708903
+s30773
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o
+t1267708911
+s33528
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o
+t1267708912
+s2044
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o
+t1267708911
+s10884
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o
+t1267708913
+s5780
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o
+t1267708909
+s23272
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o
+t1267708914
+s5528
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o
+t1267708914
+s5176
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o
+t1267708912
+s5312
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o
+t1267708910
+s7844
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity
+t1267708914
+s68692
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity.LinkFileList
+c000000004B8FB3E70000000000000517
+t1267708903
+s1303
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o
+t1267708913
+s5812
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o
+t1267708910
+s1912
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o
+t1267708906
+s40240
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o
+t1267708906
+s2112
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o
+t1267708906
+s13520
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o
+t1267708908
+s6576
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o
+t1267708904
+s25620
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+t1267708908
+s6512
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o
+t1267708909
+s5948
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o
+t1267708907
+s6116
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o
+t1267708905
+s9172
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity
+t1267708909
+s64740
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity.LinkFileList
+c000000004B8FB3E7000000000000050C
+t1267708903
+s1292
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o
+t1267708907
+s6860
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o
+t1267708904
+s2076
+
+N/Users/pappel/coding/Objective-C/TetLab_dev/main.m
+c0000000046E7B54C00000000000000FE
+t1189590348
+s254
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c000000004CC18AAD00000000000005C6
+t1287752365
+s1478
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328229635#328229635#0(0"0(0#1#0"8621320608#0"0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328229637.207623
+e328229638.019425
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m328229637#328229638#0(1043"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found328229637#107#99#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229637#206#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#344#0#344#0#0"0(22@27"No '-updateUI' method found328229637#635#99#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#351#0#351#0#19"no '*' method found0(23@13"At top level:328229637#734#72#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'328229637#806#120#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#974#0#974#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found328229637#926#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#974#0#974#0#35"method definition for '*' not found0(0#0#56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m8622881440#1006"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401710.244015
+e289401711.675375
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m289401710#289401711#0(1055"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found289401711#108#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401711#208#118#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#0"0(22@27"No '-updateUI' method found289401711#641#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#351#0#351#0#19"no '*' method found0(23@13"At top level:289401711#741#73#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'289401711#814#122#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found289401711#936#119#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m4300885448#966"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400560.932254
+e289400562.798100
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m289400560#289400562#0(1055"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found289400561#108#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400561#208#118#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#0"0(22@27"No '-updateUI' method found289400561#641#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#351#0#351#0#19"no '*' method found0(23@13"At top level:289400561#741#73#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'289400561#814#122#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found289400561#936#119#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m4300885448#965"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/TetLab1.8/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401711.612182
+e289401712.469463
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m289401711#289401712#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m4300885448#958"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400562.683029
+e289400563.713985
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m289400562#289400563#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m4300885448#957"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Graphic.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401710.644284
+e289401711.612091
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m289401710#289401711#0(296"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289401711#171#125#0(6@69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m238500770#222#0#222#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m4300885448#990"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400561.530259
+e289400562.682843
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m289400561#289400562#0(296"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289400562#171#125#0(6@69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m238500770#222#0#222#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m4300885448#989"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/GraphicsArrayController.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/TetLab1.8/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401712.584057
+e289401713.464961
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m289401712#289401713#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m4300885448#958"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400563.762388
+e289400564.833958
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m289400563#289400564#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m4300885448#957"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Headers.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328229636.697714
+e328229637.395378
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:494: warning: control reaches end of non-void function
+lSLF07#2@63"Compile /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m328229636#328229637#0(806"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:494: warning: control reaches end of non-void function3(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'328229637#126#139#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#343#0#343#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229637#265#116#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#343#0#343#0#0"0(22@40"Control reaches end of non-void function328229637#695#111#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#494#0#494#0#40"control reaches end of non-void function0(0#0#55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m8624324928#1004"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401708.716762
+e289401709.690604
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m289401708#289401709#0(813"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function3(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'289401709#127#140#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401709#267#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#0"0(22@40"Control reaches end of non-void function289401709#701#112#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#458#0#458#0#40"control reaches end of non-void function0(0#0#56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m4300885448#964"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400558.836035
+e289400560.932162
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument writeRecordsToTextFile:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:359: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m289400558#289400560#0(1150"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument writeRecordsToTextFile:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:359: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function4(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'289400560#127#140#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400560#267#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#0"0(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)289400560#700#226#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#359#0#359#0#33"'*' is deprecated (declared at *)0(22@40"Control reaches end of non-void function289400560#1038#112#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#458#0#458#0#40"control reaches end of non-void function0(0#0#56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m4300885448#963"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328229637.395644
+e328229637.907044
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@74"Compile /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m328229637#328229637#0(989"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'328229637#137#151#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229637#288#126#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:328229637#637#82#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'328229637#719#131#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found328229637#850#139#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m8623016288#1026"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401713.301767
+e289401714.121576
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m289401713#289401714#0(997"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'289401714#138#152#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401714#290#127#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:289401714#642#83#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'289401714#725#132#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found289401714#857#140#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m4300885448#986"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400564.797165
+e289400565.827848
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m289400564#289400565#0(997"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'289400565#138#152#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400565#290#127#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:289400565#642#83#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'289400565#725#132#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found289400565#857#140#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m4300885448#985"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/TetLab1.8/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401713.465062
+e289401714.241219
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m289401713#289401714#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m4300885448#958"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400564.834052
+e289400565.873602
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m289400564#289400565#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m4300885448#957"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/SelData.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401711.675468
+e289401712.583957
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m289401711#289401712#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m4300885448#976"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400562.798199
+e289400563.762293
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m289400562#289400563#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m4300885448#975"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol+Archiving.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401709.690694
+e289401710.644189
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m289401709#289401710#0(207"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289401710#99#108#0(6@52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m242211993#148#0#148#0#40"control reaches end of non-void function0(0#0#52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m4300885448#956"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400560.402914
+e289400561.530170
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m289400560#289400561#0(207"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289400561#99#108#0(6@52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m242211993#148#0#148#0#40"control reaches end of non-void function0(0#0#52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m4300885448#955"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Symbol.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401712.469602
+e289401713.301673
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m289401712#289401713#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m4300885448#972"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400563.714082
+e289400564.796982
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m289400563#289400564#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m4300885448#971"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/ZoomScrollView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/TetLab1.8/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/TetLab_dev/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s289401709.240268
+e289401710.243801
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/TetLab_dev/main.m289401709#289401710#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/TetLab_dev/main.m4300885448#952"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/main.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/TetLab_dev/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289400559.152102
+e289400560.402712
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/TetLab_dev/main.m289400559#289400560#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/TetLab_dev/main.m4300885448#951"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/main.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s328229635.708537
+e328229636.697510
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m328229635#328229636#0(1043"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m:974: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found328229636#107#99#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229636#206#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#344#0#344#0#0"0(22@27"No '-updateUI' method found328229636#635#99#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#351#0#351#0#19"no '*' method found0(23@13"At top level:328229636#734#72#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'328229636#806#120#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#974#0#974#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found328229636#926#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m309102985#974#0#974#0#35"method definition for '*' not found0(0#0#56"/Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m8621111072#1013"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401704.815906
+e289401706.143596
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m289401704#289401706#0(1055"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found289401705#108#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401705#208#118#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#0"0(22@27"No '-updateUI' method found289401705#641#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#351#0#351#0#19"no '*' method found0(23@13"At top level:289401705#741#73#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'289401705#814#122#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found289401705#936#119#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m4300885448#960"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400554.063273
+e289400555.920661
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m289400554#289400555#0(1055"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeAlphaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:344: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: In function '-[DiagramView changeThetaSlider:]':/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:351: warning: no '-updateUI' method found/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m:1008: warning: method definition for '-zoomLevel:' not found6(22@27"No '-updateUI' method found289400554#108#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400554#208#118#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#344#0#344#0#0"0(22@27"No '-updateUI' method found289400554#641#100#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#351#0#351#0#19"no '*' method found0(23@13"At top level:289400554#741#73#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#0#0#0#0#0"0(22@48"Incomplete implementation of class 'DiagramView'289400554#814#122#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found289400554#936#119#0(6@57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m288999515#1008#0#1008#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m4300885448#959"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/DiagramView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/DiagramView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/TetLab1.8/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401706.143688
+e289401706.969323
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m289401706#289401706#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m4300885448#952"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400555.823204
+e289400556.708287
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m289400555#289400556#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m4300885448#951"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Graphic.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Graphic.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab1.8/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401705.449955
+e289401706.574576
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m289401705#289401706#0(296"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289401706#171#125#0(6@69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m238500770#222#0#222#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m4300885448#984"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400554.783029
+e289400555.823007
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m289400554#289400555#0(296"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m:222: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289400555#171#125#0(6@69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m238500770#222#0#222#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m4300885448#983"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/GraphicsArrayController.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/TetLab1.8/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401707.390738
+e289401708.262822
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m289401707#289401708#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m4300885448#952"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400556.909224
+e289400557.956386
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m289400556#289400557#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/Headers.m4300885448#951"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Headers.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Headers.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s328229635.707571
+e328229636.638726
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:494: warning: control reaches end of non-void function
+lSLF07#2@63"Compile /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m328229635#328229636#0(806"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:343: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m:494: warning: control reaches end of non-void function3(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'328229636#126#139#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#343#0#343#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229636#265#116#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#343#0#343#0#0"0(22@40"Control reaches end of non-void function328229636#695#111#0(6@55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m309357761#494#0#494#0#40"control reaches end of non-void function0(0#0#55"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m8621315136#1011"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401703.578577
+e289401704.815736
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m289401703#289401704#0(813"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function3(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'289401704#127#140#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401704#267#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#0"0(22@40"Control reaches end of non-void function289401704#701#112#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#458#0#458#0#40"control reaches end of non-void function0(0#0#56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m4300885448#958"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400552.399695
+e289400554.063186
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument writeRecordsToTextFile:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:359: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m289400552#289400554#0(1150"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument openPanelDidEnd:returnCode:contextInfo:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: 'NSArrayController' may not respond to '-createRecordsFromTextFile:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:307: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument writeRecordsToTextFile:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:359: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m: In function '-[MyDocument numberOfRowsInTableView:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m:458: warning: control reaches end of non-void function4(22@68"'NSArrayController' may not respond to '-createRecordsFromTextFile:'289400553#127#140#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400553#267#117#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#307#0#307#0#0"0(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)289400553#700#226#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#359#0#359#0#33"'*' is deprecated (declared at *)0(22@40"Control reaches end of non-void function289400553#1038#112#0(6@56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m288999512#458#0#458#0#40"control reaches end of non-void function0(0#0#56"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m4300885448#957"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s328229636.639041
+e328229637.134883
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@74"Compile /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m328229636#328229637#0(989"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'328229637#137#151#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328229637#288#126#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:328229637#637#82#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'328229637#719#131#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found328229637#850#139#0(6@66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#66"/Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m8620532864#1033"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/TetLab.hmap -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -I/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab1.8/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401707.819585
+e289401708.716659
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m289401707#289401708#0(997"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'289401708#138#152#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289401708#290#127#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:289401708#642#83#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'289401708#725#132#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found289401708#857#140#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m4300885448#980"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400557.849819
+e289400558.835928
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m289400557#289400558#0(997"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: 'NSArrayController' may not respond to '-createRecordsFromPasteboard:'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:79: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m:91: warning: method definition for '-readablePasteboardTypes' not found5(22@70"'NSArrayController' may not respond to '-createRecordsFromPasteboard:'289400558#138#152#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289400558#290#127#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#79#0#79#0#0"0(23@13"At top level:289400558#642#83#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'289400558#725#132#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found289400558#857#140#0(6@67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m235001616#91#0#91#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m4300885448#979"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/MyDocument_Pasteboard.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/TetLab1.8/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401708.262990
+e289401709.083316
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m289401708#289401709#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m4300885448#952"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400557.956488
+e289400558.912377
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m289400557#289400558#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab_dev/SelData.m4300885448#951"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/SelData.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/SelData.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401706.574702
+e289401707.390644
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m289401706#289401707#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m4300885448#970"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400555.920762
+e289400556.909124
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m289400555#289400556#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m4300885448#969"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol+Archiving.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/TetLab1.8/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401704.538478
+e289401705.449854
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m289401704#289401705#0(207"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289401705#99#108#0(6@52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m242211993#148#0#148#0#40"control reaches end of non-void function0(0#0#52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m4300885448#950"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400553.688679
+e289400554.782931
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':
+o/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m289400553#289400554#0(207"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m: In function '-[Symbol hitTest:isSelected:]':/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m:148: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function289400554#99#108#0(6@52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m242211993#148#0#148#0#40"control reaches end of non-void function0(0#0#52"/Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m4300885448#949"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/Symbol.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Symbol.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab1.8/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401706.969417
+e289401707.819488
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m289401706#289401707#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m4300885448#966"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400556.708384
+e289400557.849676
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m289400556#289400557#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m4300885448#965"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/ZoomScrollView.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/TetLab1.8/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/TetLab_dev/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s289401703.580044
+e289401704.538387
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/TetLab_dev/main.m289401703#289401704#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/TetLab_dev/main.m4300885448#946"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.4 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/main.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/TetLab_dev/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s289400552.400633
+e289400553.688488
+r1
+xCompileC
+xbuild/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o
+x/Users/pappel/coding/Objective-C/TetLab_dev/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/TetLab_dev/main.m289400552#289400553#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/TetLab_dev/main.m4300885448#945"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -I/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/include -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/DerivedSources -c /Users/pappel/coding/Objective-C/TetLab_dev/main.m -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/main.o0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328229635.659305
+e328229635.693869
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328229635#328229635#0(0"0(0#0#74"/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/InfoPlist.strings8623606240#377"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv ICONV /usr/bin/iconv    /Developer-3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s328229635.665185
+e328229635.707481
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings328229635#328229635#0(0"0(0#0#76"/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/Localizable.strings8623267776#378"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv ICONV /usr/bin/iconv    /Developer-3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s289401703.520982
+e289401703.558278
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings289401703#289401703#0(0"0(0#0#75"/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/InfoPlist.strings4300885448#378"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s289401703.540532
+e289401703.578482
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings289401703#289401703#0(0"0(0#0#77"/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/Localizable.strings4300885448#379"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/TetLab.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s328229635.476689
+e328229635.484303
+r1
+xCpResource
+xbuild/Release/TetLab.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf328229635#328229635#0(0"0(0#0#68"/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/Credits.rtf8624033216#405"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/Credits.rtf /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/TetLab.app/Contents/Resources/Views_3.xcclassmodel Views_3.xcclassmodel
+s328229635.663416
+e328229635.676622
+r1
+xCpResource
+xbuild/Release/TetLab.app/Contents/Resources/Views_3.xcclassmodel
+xViews_3.xcclassmodel
+lSLF07#2@25"Copy Views_3.xcclassmodel328229635#328229635#0(0"0(0#0#63"/Users/pappel/coding/Objective-C/TetLab1.8/Views_3.xcclassmodel8623313952#386"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab1.8/Views_3.xcclassmodel /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources0#
+
+CCpResource build/Release/TetLab.app/Contents/Resources/dsa_pub.pem dsa_pub.pem
+s328229635.694590
+e328229635.700038
+r1
+xCpResource
+xbuild/Release/TetLab.app/Contents/Resources/dsa_pub.pem
+xdsa_pub.pem
+lSLF07#2@16"Copy dsa_pub.pem328229635#328229635#0(0"0(0#0#54"/Users/pappel/coding/Objective-C/TetLab1.8/dsa_pub.pem8622915520#377"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab1.8/dsa_pub.pem /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources0#
+
+CCpResource build/Release/TetLab.app/Contents/Resources/tetra.icns "Icon Templates/tetra.icns"
+s328229635.693970
+e328229635.702905
+r1
+xCpResource
+xbuild/Release/TetLab.app/Contents/Resources/tetra.icns
+xIcon Templates/tetra.icns
+lSLF07#2@30"Copy Icon Templates/tetra.icns328229635#328229635#0(0"0(0#0#68"/Users/pappel/coding/Objective-C/TetLab1.8/Icon Templates/tetra.icns8623030048#393"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/pappel/coding/Objective-C/TetLab1.8/Icon Templates/tetra.icns" /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources0#
+
+CCpResource build/Release/Trinity.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s289401703.261618
+e289401703.298060
+r1
+xCpResource
+xbuild/Release/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf289401703#289401703#0(0"0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/Credits.rtf4300885448#393"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/Credits.rtf /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/Trinity.app/Contents/Resources/Views_3.xcclassmodel Views_3.xcclassmodel
+s289401703.538701
+e289401703.547733
+r1
+xCpResource
+xbuild/Release/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+xViews_3.xcclassmodel
+lSLF07#2@25"Copy Views_3.xcclassmodel289401703#289401703#0(0"0(0#0#64"/Users/pappel/coding/Objective-C/TetLab_dev/Views_3.xcclassmodel4300885448#374"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab_dev/Views_3.xcclassmodel /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources0#
+
+CCpResource build/Release/Trinity.app/Contents/Resources/tetra.icns "Icon Templates/tetra.icns"
+s289401703.558373
+e289401703.564922
+r1
+xCpResource
+xbuild/Release/Trinity.app/Contents/Resources/tetra.icns
+xIcon Templates/tetra.icns
+lSLF07#2@30"Copy Icon Templates/tetra.icns289401703#289401703#0(0"0(0#0#69"/Users/pappel/coding/Objective-C/TetLab_dev/Icon Templates/tetra.icns4300885448#381"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/pappel/coding/Objective-C/TetLab_dev/Icon Templates/tetra.icns" /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/MacOS/TetLab normal "ppc i386"
+s328229638.095165
+e328229638.171233
+r1
+xCreateUniversalBinary
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/MacOS/TetLab
+xnormal
+xppc i386
+lSLF07#2@86"CreateUniversalBinary build/Release/TetLab.app/Contents/MacOS/TetLab normal "ppc i386"328229638#328229638#0(0"0(0#0#51"/Users/pappel/coding/Objective-C/TetLab1.8/ppc i3868622579200#393"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab -output /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/MacOS/TetLab0#
+
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/MacOS/TetLab normal "ppc i386"
+r0
+
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/MacOS/Trinity normal "ppc i386"
+s289401714.304515
+e289401714.309316
+r1
+xCreateUniversalBinary
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/MacOS/Trinity
+xnormal
+xppc i386
+lSLF07#2@88"CreateUniversalBinary build/Release/Trinity.app/Contents/MacOS/Trinity normal "ppc i386"289401714#289401714#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/TetLab_dev/ppc i3864300885448#401"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity -output /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/MacOS/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab normal i386
+s328229638.019523
+e328229638.095058
+r1
+xLd
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab
+xnormal
+xi386
+lSLF07#2@114"Link /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab328229638#328229638#0(0"0(0#0#0"8624481920#650"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer-3/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -filelist /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -framework Sparkle -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab0#
+
+CLd /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab normal ppc
+s328229637.135036
+e328229637.207441
+r1
+xLd
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab
+xnormal
+xppc
+old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer-3/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
+lSLF07#2@113"Link /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab328229637#328229637#0(186"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer-3/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o1(22@172"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer-3/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o328229637#0#186#0(6@0"328229637#0#0#0#0#0"0(0#0#0"8612801728#647"    cd /Users/pappel/coding/Objective-C/TetLab1.8    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer-3/usr/bin/gcc-4.0 -arch ppc -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8/build/Release -F/Users/pappel/coding/Objective-C/TetLab1.8 -filelist /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -framework Sparkle -o /Users/pappel/coding/Objective-C/TetLab1.8/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab0#
+
+CLd /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/TetLab normal i386
+r0
+
+CLd /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity normal i386
+s289401714.241310
+e289401714.304386
+r1
+xLd
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity
+xnormal
+xi386
+lSLF07#2@116"Link /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity289401714#289401714#0(0"0(0#0#0"4300885448#589"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -filelist /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/i386/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/TetLab normal ppc
+r0
+
+CLd /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity normal ppc
+s289401709.083408
+e289401709.240174
+r1
+xLd
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity
+xnormal
+xppc
+old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
+lSLF07#2@115"Link /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity289401709#289401709#0(184"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o1(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o289401709#0#184#0(6@0"289401709#0#0#0#0#0"0(0#0#0"4300885448#586"    cd /Users/pappel/coding/Objective-C/TetLab_dev    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -F/Users/pappel/coding/Objective-C/TetLab_dev/build/Release -filelist /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -o /Users/pappel/coding/Objective-C/TetLab_dev/build/TetLab.build/Release/TetLab.build/Objects-normal/ppc/Trinity0#
+
+CPBXCp build/Release/TetLab.app/Contents/Frameworks/Sparkle.framework Sparkle.framework
+s328229638.171364
+e328229638.244491
+r1
+xPBXCp
+xbuild/Release/TetLab.app/Contents/Frameworks/Sparkle.framework
+xSparkle.framework
+lSLF07#2@22"Copy Sparkle.framework328229638#328229638#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/TetLab1.8/Sparkle.framework8617038688#384"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/pappel/coding/Objective-C/TetLab1.8/Sparkle.framework /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Info.plist Info.plist
+s328229635.468481
+e328229635.476603
+r1
+xProcessInfoPlistFile
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist328229635#328229635#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/TetLab1.8/Info.plist8610789472#316"    cd /Users/pappel/coding/Objective-C/TetLab1.8    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app/Contents/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Info.plist Info.plist
+s289401703.258021
+e289401703.261533
+r1
+xProcessInfoPlistFile
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist289401703#289401703#0(0"0(0#0#54"/Users/pappel/coding/Objective-C/TetLab_dev/Info.plist4300885448#321"    cd /Users/pappel/coding/Objective-C/TetLab_dev    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Info.plist0#
+
+CStripNIB /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib
+s328229635.477706
+e328229635.663321
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib328229635#328229635#0(0"0(0#0#69"/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib8624027168#310"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib
+s328229635.484391
+e328229635.659175
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib328229635#328229635#0(0"0(0#0#71"/Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib8623948384#314"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/TetLab1.8/English.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MainMenu.nib
+s289401703.263662
+e289401703.520893
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib289401703#289401703#0(0"0(0#0#70"/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MainMenu.nib4300885448#312"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /Developer/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MyDocument.nib
+s289401703.298171
+e289401703.538611
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib289401703#289401703#0(0"0(0#0#72"/Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MyDocument.nib4300885448#316"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /Developer/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/TetLab_dev/English.lproj/MyDocument.nib0#
+
+CTouch /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app
+s328229638.244599
+e328229638.248035
+r1
+xTouch
+x/Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app
+lSLF07#2@73"Touch /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app328229638#328229638#0(0"0(0#0#0"8610210240#140"    cd /Users/pappel/coding/Objective-C/TetLab1.8    /usr/bin/touch -c /Users/pappel/coding/Objective-C/TetLab1.8/build/Release/TetLab.app0#
+
+CTouch /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/TetLab.app
+r0
+
+CTouch /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app
+s289401714.309402
+e289401714.312548
+r1
+xTouch
+x/Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app
+lSLF07#2@75"Touch /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app289401714#289401714#0(0"0(0#0#0"4300885448#143"    cd /Users/pappel/coding/Objective-C/TetLab_dev    /usr/bin/touch -c /Users/pappel/coding/Objective-C/TetLab_dev/build/Release/Trinity.app0#
+
