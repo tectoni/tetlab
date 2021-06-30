@@ -29,5 +29,7 @@ writeRowsWithIndexes:(NSIndexSet *)rowIndexes
     
 - (BOOL)tableView:(NSTableView*)tv acceptDrop:(id <NSDraggingInfo>)info row:(int)row dropOperation:(NSTableViewDropOperation)op;
 
+-(void)createRecordsFromPasteboard:(NSString *)pbstring;
+
 
 @end

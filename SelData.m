@@ -25,22 +25,22 @@
 }
 
 
-- (int)countOfSel
+- (NSInteger)countOfSel
 {
 	return countOfSel;
 }
 
-- (void)setCountOfSel:(int)aCountOfSel
+- (void)setCountOfSel:(NSInteger)aCountOfSel
 {
 	countOfSel = aCountOfSel;
 }
 
-- (int)noOfPoints
+- (NSInteger)noOfPoints
 {
 	return noOfPoints;
 }
 
-- (void)setNoOfPoints:(int)aNoOfPoints
+- (void)setNoOfPoints:(NSInteger)aNoOfPoints
 {
 	noOfPoints = aNoOfPoints;
 }

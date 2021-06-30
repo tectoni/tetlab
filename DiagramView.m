@@ -1,6 +1,7 @@
 #import "DiagramView.h"
 #import"Graphic.h"
 #import"SelData.h"
+#import"MyDocument.h"
 
 static void *PropertyObservationContext = (void *)1091;
 static void *GraphicsObservationContext = (void *)1092;
@@ -38,7 +39,7 @@ if ((self = [super initWithFrame:frameRect]) != nil) {
 //			connectedSymbolsContainer = [[NSMutableArray alloc] init];
 		
 			NSLog(@"DiagramView initWithFrame %@", self);
-			[NSApp setDelegate: self];
+	//		[NSApp setDelegate: self];
 			[self setSaveable: YES];
 			[self setNeedsDisplay: YES];
 	//		[self setShowLabelsYN:connectPointsButton];
@@ -110,6 +111,7 @@ return self;
 
 - (void)setSelArray:(NSMutableArray *)aSelArray
 {
+    [aSelArray retain];
     if (selArray != aSelArray) {
         [selArray release];
         selArray = [aSelArray mutableCopy];
@@ -410,11 +412,11 @@ return self;
 	[[NSColor blackColor] set];
 	
 	NSEraseRect(rect);
-	NSBezierPath *path;
+    NSBezierPath *path = [NSBezierPath bezierPath];
 	int i;
 
 // Draw Tetrahedron
-	path = [[NSBezierPath alloc] init];
+//	path = [[NSBezierPath alloc] init];
 			[path setLineWidth: 1.0];
 			a = [self convertBary2Cartesian:1.0 b:0.0 c:0.0 d:0.0];
 			b = [self convertBary2Cartesian:0.0 b:1.0 c:0.0 d:0.0];
@@ -790,7 +792,7 @@ if (showLabelsYN) {
 //    lastPoint = [self convertPoint:p fromView:self];
 	NSPoint pos = [self convertPoint:[event locationInWindow] fromView:nil];
 
-    if (!([event modifierFlags] & NSControlKeyMask))
+    if (!([event modifierFlags] & NSEventModifierFlagCommand))
     {
 		NSLog(@"mouseDragged: %@", event);
         [self setPosition:pos];
@@ -964,8 +966,8 @@ NSMutableIndexSet *selectionIndexesToBeRemoved = [NSMutableIndexSet indexSet];
 	else		
 	{
 		[symbolController setSelectedObjects:[[selArray objectAtIndex:selectedRow] sel] ];
-		[selTable selectRow:selectedRow byExtendingSelection:NO];
-		NSLog(@"selextion %i,  %i", [[[selArray objectAtIndex:selectedRow] sel] count], selectedRow );
+		[selTable selectRowIndexes:[NSIndexSet indexSetWithIndex: selectedRow] byExtendingSelection:NO];
+        NSLog(@"selextion %lu,  %i", (unsigned long)[[[selArray objectAtIndex:selectedRow] sel] count], selectedRow );
 
 	}
 }	

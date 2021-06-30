@@ -19,9 +19,10 @@
     self = [super init];
     if (self) {
 		graphics =[[NSMutableArray alloc] init];
-    }
-	containsData = NO;
-	NSLog(@"MyDocument - (id)init %@", self);
+        containsData = NO;
+        }
+
+    NSLog(@"MyDocument - (id)init %@", self);
 	
    return self;
 }
@@ -130,30 +131,34 @@
 }
 
 
+
 -(void)updateCellHeaders
 {
-NSTableHeaderCell *headerACell = [[[NSTableHeaderCell alloc] init] retain];
-[headerACell setStringValue:[textFieldA stringValue]];
-[headerACell setAlignment:NSCenterTextAlignment];
-[[dataTable tableColumnWithIdentifier:@"aValue"] setHeaderCell:headerACell];
-
-NSTableHeaderCell *headerBCell = [[[NSTableHeaderCell alloc] init] retain];
-[headerBCell setStringValue:[textFieldB stringValue]];
-[headerBCell setAlignment:NSCenterTextAlignment];
-[[dataTable tableColumnWithIdentifier:@"bValue"] setHeaderCell:headerBCell];
-
-NSTableHeaderCell *headerCCell = [[[NSTableHeaderCell alloc] init] retain];
-[headerCCell setStringValue:[textFieldC stringValue]];
-[headerCCell setAlignment:NSCenterTextAlignment];
-[[dataTable tableColumnWithIdentifier:@"cValue"] setHeaderCell:headerCCell];
-
-NSTableHeaderCell *headerDCell = [[[NSTableHeaderCell alloc] init] retain];
-[headerDCell setStringValue:[textFieldD stringValue]];
-[headerDCell setAlignment:NSCenterTextAlignment];
-[[dataTable tableColumnWithIdentifier:@"dValue"] setHeaderCell:headerDCell];
-
+    NSTableHeaderCell *headerACell = [[NSTableHeaderCell alloc] init] ;
+    [headerACell setStringValue:[textFieldA stringValue]];
+    [headerACell setAlignment:NSTextAlignmentCenter];
+    [[dataTable tableColumnWithIdentifier:@"aValue"] setHeaderCell:headerACell];
+    [headerACell release];
+    
+    NSTableHeaderCell *headerBCell = [[NSTableHeaderCell alloc] init] ;
+    [headerBCell setStringValue:[textFieldB stringValue]];
+    [headerBCell setAlignment:NSTextAlignmentCenter];
+    [[dataTable tableColumnWithIdentifier:@"bValue"] setHeaderCell:headerBCell];
+    [headerBCell release];
+    
+    NSTableHeaderCell *headerCCell = [[NSTableHeaderCell alloc] init] ;
+    [headerCCell setStringValue:[textFieldC stringValue]];
+    [headerCCell setAlignment:NSTextAlignmentCenter];
+    [[dataTable tableColumnWithIdentifier:@"cValue"] setHeaderCell:headerCCell];
+    [headerCCell release];
+    
+    NSTableHeaderCell *headerDCell = [[NSTableHeaderCell alloc] init];
+    [headerDCell setStringValue:[textFieldD stringValue]];
+    [headerDCell setAlignment:NSTextAlignmentCenter];
+    [[dataTable tableColumnWithIdentifier:@"dValue"] setHeaderCell:headerDCell];
+    [headerDCell release];
+    
 }
-
 
 - (void)updateUI
 {
@@ -197,7 +202,7 @@ NSLog(@"updateUI %@ %f", diagramView, [diagramView theta]);
 		[alphaField setFloatValue:alpha/3.14159265*180.0];
 		[alphaSlider setFloatValue:alpha/3.14159265*180.0];
 		[thetaSlider setFloatValue:theta/3.14159265*180.0];
-		[diagramView setSelArray:theLoadedSelArray];
+	//	[diagramView setSelArray:theLoadedSelArray];
 //		[self setHeader:loadedHeader];
 		[header setAHeader:aLab];
 		[header setBHeader:bLab];
@@ -304,12 +309,12 @@ IB ACTION METHODS
 -(void) didEnd: (NSSavePanel *)sheet returnCode:(int)code 
    contextInfo: (void *)contextInfo
 {
-	if(code == NSOKButton)
+	if(code == NSModalResponseOK)
 	{
 //		NSLog(@"didEnd called for %@", self);
 		NSRect r = [diagramView bounds];
 		NSData *data = [diagramView dataWithPDFInsideRect: r];
-		[data writeToFile: [sheet filename] atomically: YES];
+		[data writeToFile: [sheet.URL absoluteString] atomically: YES];
 	}
 }
 
@@ -321,14 +326,38 @@ IB ACTION METHODS
 - (IBAction)importTextFile:(id)sender
 {
     NSOpenPanel *panel = [NSOpenPanel openPanel];
-	NSLog(@"importTextFile");
-    [panel beginSheetForDirectory:nil 
-							 file:nil 
-							types:nil 
-				   modalForWindow:mainWindow
-					modalDelegate:self 
-				   didEndSelector:@selector(openPanelDidEnd:returnCode:contextInfo:) 
-					  contextInfo:nil];
+    [panel setPrompt:@"Choose File"];
+    [panel setCanChooseFiles:YES];
+    [panel setCanChooseDirectories:YES];
+
+    NSLog(@"importTextFile");
+    
+    //  [panel setNameFieldStringValue:nil];
+    [panel beginSheetModalForWindow:mainWindow completionHandler:^(NSInteger result)
+    {
+        if (result == NSModalResponseOK)
+        {
+            NSArray* urls = [panel URLs];
+            NSString*    textFilePath = [[urls objectAtIndex: 0 ] absoluteString];
+//            [graphicsController createRecordsFromTextFile:textFilePath];
+        }
+    }];
+    
+}
+
+/************************** old Methods for TextFile Import ************************
+
+- (IBAction)importTextFile:(id)sender
+{
+    NSOpenPanel *panel = [NSOpenPanel openPanel];
+    NSLog(@"importTextFile");
+    [panel beginSheetForDirectory:nil
+                             file:nil
+                            types:nil
+                   modalForWindow:mainWindow
+                    modalDelegate:self
+                   didEndSelector:@selector(openPanelDidEnd:returnCode:contextInfo:)
+                      contextInfo:nil];
     [panel setCanChooseDirectories:NO];
     [panel setPrompt:@"Choose File"];
 }
@@ -337,13 +366,13 @@ IB ACTION METHODS
 - (void)openPanelDidEnd:(NSOpenPanel *)openPanel returnCode:(int)returnCode contextInfo:(void  *)contextInfo
 {
     NSString *textFilePath;
-//	NSLog(@"openPanelDidEnd");
+    NSLog(@"openPanelDidEnd");
     if (returnCode == NSOKButton) {
         textFilePath = [openPanel filename];
         [graphicsController createRecordsFromTextFile:textFilePath];
     }
 }
-
+*/
 
 /************************** Methods for Writing data to Text File **************************/
 
@@ -371,16 +400,17 @@ IB ACTION METHODS
 - (void)savePanelDidEnd:(NSSavePanel *)savePanel returnCode:(int)returnCode contextInfo:(void  *)contextInfo
 {
     NSString *textFilePath;
-//	NSLog(@"savePanelDidEnd");
-    if (returnCode == NSOKButton) {
-        textFilePath = [savePanel filename];
-		[self writeRecordsToTextFile:textFilePath];
+    NSLog(@"savePanelDidEnd");
+    if (returnCode == NSModalResponseOK) {
+        textFilePath = [savePanel.URL absoluteString];
+        [self writeRecordsToTextFile:textFilePath];
     }
 }
 
 
 - (void)writeRecordsToTextFile:(NSString *)path
 {
+    NSError *error = nil;
     NSMutableString *csvString = [NSMutableString string];
     NSEnumerator *pointEnum = [graphics objectEnumerator];
     id point;
@@ -392,7 +422,7 @@ IB ACTION METHODS
 		NSNumber *dV = [point valueForKey:@"dValue"];
         [csvString appendString:[NSString stringWithFormat:@"%@\t%@\t%@\t%@\t%@\n", string, aV, bV, cV, dV]]; // Tab delimited data
     }
-	 [csvString writeToFile:path atomically:YES];
+    [csvString writeToFile:path atomically:YES encoding: NSASCIIStringEncoding error:&error];
 }
 
 
@@ -490,7 +520,9 @@ TABLE METHODS
 // Delegate methods
 - (int)numberOfRowsInTableView:(NSTableView *)aTable
 {
-	if (aTable == dataTable) {return [graphics count];}
+	if (aTable == dataTable)
+    {return [graphics count];}
+    else return 0;
 }
 
 

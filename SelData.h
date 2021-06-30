@@ -13,15 +13,15 @@
 {
 	NSArray *sel;
 //	NSIndexSet *sel;
-	int countOfSel;
-	int noOfPoints;
+	NSInteger countOfSel;
+    NSInteger noOfPoints;
 }
 
-- (int)noOfPoints;
-- (void)setNoOfPoints:(int)aNoOfPoints;
+- (NSInteger)noOfPoints;
+- (void)setNoOfPoints:(NSInteger)aNoOfPoints;
 
-- (int)countOfSel;
-- (void)setCountOfSel:(int)aCountOfSel;
+- (NSInteger)countOfSel;
+- (void)setCountOfSel:(NSInteger)aCountOfSel;
 
 
 - (NSArray *)sel;

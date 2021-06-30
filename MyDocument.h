@@ -11,6 +11,7 @@
 #import <Cocoa/Cocoa.h>
 @class DiagramView;
 @class Headers;
+@class GraphicsArrayController;
 
 @interface MyDocument : NSDocument
 {
@@ -29,7 +30,7 @@
 	IBOutlet id mainWindow;
 	IBOutlet DiagramView *diagramView;
 	IBOutlet NSTableView *dataTable;
-	IBOutlet NSArrayController *graphicsController;
+	IBOutlet GraphicsArrayController *graphicsController;
 	IBOutlet NSButton *connectCheckbox;
 	IBOutlet NSButton *showLabelsCheckbox;
 	IBOutlet NSButton *updateButton;
